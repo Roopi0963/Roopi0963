@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PALEGARU ROOEPSH NAIDU</h1>
+<h1 align="center">Hi 👋, I'm PALEGARU ROOPESH NAIDU</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roopi0963&label=Profile%20views&color=0e75b6&style=flat" alt="roopi0963" /> </p>
