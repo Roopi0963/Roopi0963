@@ -111,7 +111,7 @@ Production-ready full-stack platform enabling salon owners, staff members, and c
 - Clean layered backend structure (Controller → Service → Repository)
 
 ### Tech Stack
-Spring Boot | React.js | MySQL | JWT | Docker
+Nest.js | Expres.js | React.js | PostgresSQL | JWT | Docker
 
 ---
 
