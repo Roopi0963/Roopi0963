@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PALEGARU ROOPESH NAIDU</h1>
+<!-- <h1 align="center">Hi 👋, I'm PALEGARU ROOPESH NAIDU</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roopi0963&label=Profile%20views&color=0e75b6&style=flat" alt="roopi0963" /> </p>
@@ -33,4 +33,162 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roopi0963&show_icons=true&locale=en&layout=compact" alt="roopi0963" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roopi0963&show_icons=true&locale=en" alt="roopi0963" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roopi0963&show_icons=true&locale=en" alt="roopi0963" /></p> -->
+<h1 align="center">PALEGARU ROOPESH NAIDU</h1>
+<h3 align="center">Full Stack Product Engineer | Spring Boot | React.js | System Design</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roopi0963&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I build scalable backend systems and modern full-stack applications focused on real-world production use cases.
+
+Strong in backend architecture, database design, authentication systems, and performance-oriented development.
+
+Currently building:
+- 💇 Salon Booking & Management Platform
+- 🚗 Ride Sharing Application (Uber-like architecture)
+- 🤖 AI-powered Sign Language Translation System
+
+---
+
+## 🧠 Technical Expertise
+
+### Backend Engineering
+- Java
+- Spring Boot
+- RESTful API Design
+- JWT Authentication
+- Role-Based Access Control
+- Microservice-ready Architecture
+- Secure API Development
+
+### Frontend Engineering
+- React.js
+- JavaScript (ES6+)
+- Responsive UI Design
+- State Management
+
+### Database Systems
+- MySQL
+- SQL Optimization
+- Indexing & Query Tuning
+- Relational Schema Design
+
+### DevOps & Tools
+- Docker
+- Git & GitHub
+- Postman
+- Render Deployment
+
+### AI / ML
+- Python
+- OpenCV
+- Mediapipe
+- NLP
+- Machine Learning Fundamentals
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 💇 Salon Booking & Management System
+
+Production-ready full-stack platform enabling salon owners, staff members, and customers to manage bookings efficiently.
+
+### Key Capabilities
+- Multi-role authentication (Customer / Owner / Member)
+- Booking lifecycle management
+- Real-time notifications
+- Secure JWT-based access
+- Payment integration ready architecture
+- Clean layered backend structure (Controller → Service → Repository)
+
+### Tech Stack
+Spring Boot | React.js | MySQL | JWT | Docker
+
+---
+
+## 🚗 Ride Sharing Platform
+
+Backend-driven ride-sharing system designed with scalable architecture principles.
+
+### Key Capabilities
+- Driver & Passenger modules
+- Ride creation & status tracking
+- Fare calculation logic
+- Route & stop management
+- Secure authentication system
+- Optimized relational database schema
+
+### Tech Stack
+Spring Boot | React.js | MySQL | REST APIs
+
+---
+
+## 🤖 Indian Sign Language to Text & Speech
+
+AI-powered accessibility system converting sign gestures into readable text and speech output.
+
+### Key Capabilities
+- Real-time hand detection
+- Gesture classification
+- NLP-based processing
+- Text-to-Speech conversion
+
+### Tech Stack
+Python | OpenCV | Mediapipe | Machine Learning | NLP
+
+---
+
+## 🌾 Farmer-to-Customer E-Commerce Platform
+
+Platform connecting farmers directly to consumers with secure order management.
+
+### Tech Stack
+Spring Boot | React.js | MySQL | UPI Integration
+
+---
+
+# 🏗 Engineering Principles I Follow
+
+- Clean Code Practices
+- SOLID Design Principles
+- Separation of Concerns
+- Layered Architecture
+- Secure Authentication & Authorization
+- Performance Optimization
+- Production-Ready Development Standards
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roopi0963&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roopi0963&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📬 Contact
+
+Email: palegariroopeshnaidu@gmail.com  
+Open to Internship and Full-Time Backend / Full Stack Opportunities  
+
+---
+
+## ⚡ Developer Philosophy
+
+Build systems that scale.  
+Write code that survives production.  
+Design solutions that solve real problems.
