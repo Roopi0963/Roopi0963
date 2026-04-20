@@ -199,7 +199,7 @@ Spring Boot | React.js | MySQL | UPI Integration
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roopi0963&theme=darkhub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Roopi0963&theme=darkhub" />
 </p>
 
 ## 🐍 Contribution Snake
