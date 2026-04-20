@@ -48,12 +48,21 @@
 I build scalable backend systems and modern full-stack applications focused on real-world production use cases.
 
 Strong in backend architecture, database design, authentication systems, and performance-oriented development.
+## 📊 Developer Impact
 
-Currently building:
-- 💇 Salon Booking & Management Platform
-- 🚗 Ride Sharing Application (Uber-like architecture)
-- 🤖 AI-powered Sign Language Translation System
+- 🚀 Built 7+ full-stack production-level applications :contentReference[oaicite:0]{index=0}  
+- ⚡ Designed scalable backend systems using Spring Boot & Node.js  
+- 🔐 Implemented secure authentication (JWT + RBAC)  
+- 📈 Optimized database queries using indexing & tuning  
+- 🤖 Developed AI-based real-time gesture recognition system  
+- 🏗 Built microservice-ready architectures for real-world use cases  
 
+
+
+## 🧪 Currently Working On
+
+- 💇 Scalable salon booking system (real-time slot engine)
+- 🚗 Ride sharing system (Uber-like architecture)
 ---
 
 ## 🧠 Technical Expertise
@@ -111,7 +120,7 @@ Production-ready full-stack platform enabling salon owners, staff members, and c
 - Clean layered backend structure (Controller → Service → Repository)
 
 ### Tech Stack
-Nest.js | Expres.js | React.js | PostgresSQL | JWT | Docker
+Node.js | Expres.js | React.js | PostgresSQL | JWT | Docker
 
 ---
 
@@ -171,21 +180,45 @@ Spring Boot | React.js | MySQL | UPI Integration
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roopi0963&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roopi0963&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roopi0963&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roopi0963&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roopi0963&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roopi0963&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
 
-# 📬 Contact
+## 🏆 Achievements
 
-Email: palegariroopeshnaidu@gmail.com  
-Open to Internship and Full-Time Backend / Full Stack Opportunities  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roopi0963&theme=darkhub"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roopi0963/roopi0963/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
+
+## 📬 Let's Work Together
+
+I'm open to:
+- Backend / Full Stack roles
+- System design focused opportunities
+- Real-world scalable product development
+
+
+📧 palegariroopeshnaidu@gmail.com  
 
 ## ⚡ Developer Philosophy
 
